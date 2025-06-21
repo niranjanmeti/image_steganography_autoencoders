@@ -21,10 +21,10 @@ This MATLAB project demonstrates *image steganography using convolutional autoen
 ## 📐 Block Diagrams
 
 ### 🔒 Embedding Network  
-![Embedding Network](images/Embedding_network.jpg)
+![Embedding Network](./Report/Embedding_network.jpg)
 
 ### 🔓 Extraction Network  
-![Extraction Network](images/Extraction_network.jpg)
+![Extraction Network](./Report/Extraction_network.jpg)
 ---
 
 ## 🧠 Architecture Overview
