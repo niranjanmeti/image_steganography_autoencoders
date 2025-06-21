@@ -82,7 +82,7 @@ This project is licensed under the *MIT License*.
 
 *Niranjan Meti*  
 Deep learning + embedded systems enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/niranjan-meti-69076921a)  
+📫 [LinkedIn](https://www.linkedin.com/niranjan_meti_69076921a)  
 🌐 [GitHub](https://github.com/niranjanmeti)
 
 ---
